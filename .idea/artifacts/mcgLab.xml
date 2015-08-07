@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mcgLab">
+    <output-path>$PROJECT_DIR$/out/artifacts/mcgLab</output-path>
+    <root id="archive" name="mcgLab.war" />
+  </artifact>
+</component>
